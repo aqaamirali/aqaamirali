@@ -1,0 +1,5 @@
+- 👋 Hi, I’m amirali
+- 👀 I have a passion for solving problems creatively
+- 🌱 I’m currently learning python, django, JS
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me @amir_sze on telegram
